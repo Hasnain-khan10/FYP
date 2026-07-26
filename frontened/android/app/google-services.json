@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "98935133919",
+    "project_id": "smart-teacher-assistant100",
+    "storage_bucket": "smart-teacher-assistant100.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98935133919:android:119a540281717a4ac5fb6a",
+        "android_client_info": {
+          "package_name": "com.hasnain.smartassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98935133919-af546a3f84pvuuk34s08pcf8kjo2cd94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hasnain.smartassistant",
+            "certificate_hash": "056fd901ed551a08df98427982bad736dcd9c76a"
+          }
+        },
+        {
+          "client_id": "98935133919-cejkg00o20ctilr0qrjg8po33j8l2gjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDBJTlnEBe-hqrdRLpeWu978U-lvVX57Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98935133919-cejkg00o20ctilr0qrjg8po33j8l2gjj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "98935133919-3olrqjifo01fm4uga39jm1aeu8d1j06u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hasnain.smartteacherassistant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

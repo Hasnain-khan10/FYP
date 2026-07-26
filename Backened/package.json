@@ -1,0 +1,7 @@
+{
+  "name": "smart-teacher-assistant-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "uvicorn app.main:app --reload"
+  }
+}

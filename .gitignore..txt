@@ -1,0 +1,21 @@
+# Secrets & Env
+.env
+*.json
+!package.json
+
+# Python & Cache
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.vscode/
+# Inner folder overrides
+**/Backened/.env
+**/Backened/*.json
+**/Backend/.env
+**/Backend/*.json
+Backened/app/.env
+Backened/firebase_credentials.json
+*.env
+*.json
+!package.json

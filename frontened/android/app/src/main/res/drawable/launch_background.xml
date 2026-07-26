@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 1. Pure White Background -->
+    <item android:drawable="@android:color/white" />
+
+    <!-- 2. Naye folder se splash_logo uthayega jo density se stretch nahi hota -->
+    <item
+        android:width="200dp"
+        android:height="200dp"
+        android:gravity="center">
+        <bitmap
+            android:src="@drawable/splash_logo"
+            android:gravity="center"
+            android:antialias="true"
+            android:dither="true" />
+    </item>
+</layer-list>

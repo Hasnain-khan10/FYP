@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 🔥 LAUNCH THEME: Solid Dark Night Purple Theme -->
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@android:color/white</item>
+
+        <!-- Premium Dark Night Purple: Logo se 100% matching background -->
+        <item name="android:windowSplashScreenBackground">#120D31</item>
+
+        <!-- Connected Logo: Naya drawable asset -->
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash</item>
+
+        <item name="android:windowSplashScreenBehavior">default</item>
+    </style>
+
+    <!-- NORMAL THEME: Flutter load hone ke baad ka framework layer -->
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>
